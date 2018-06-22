@@ -1,0 +1,17 @@
+
+h1{ 
+    color:black;
+    border: 1px #9c0606;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    color: #9c0606;
+    text-align: center;
+}
+p {
+    color: black;
+}
+body{
+    background-color: burlywood; 
+}
