@@ -5,12 +5,15 @@ h1{
     font-weight: bold;
     text-align: center;
 }
-h3{
+h2{
     color: #9c0606;
     text-align: center;
 }
 p {
     color: black;
+    margin-left: 2%;
+    margin-right: 2%;
+    justify-content: space-around;
 }
 body{
     background-color: burlywood; 
